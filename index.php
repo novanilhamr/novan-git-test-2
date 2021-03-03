@@ -10,6 +10,10 @@
     
     <h1>hello ginan</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque non quasi dicta eveniet ad. Laboriosam sapiente nam, explicabo praesentium dolore nisi totam eveniet nulla aperiam atque sunt in maiores repellat.</p>
+<ul>
+    <li>satu</li>
+    <li>dua</li>
+</ul>
 
 </body>
 </html>
